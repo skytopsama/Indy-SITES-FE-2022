@@ -1,0 +1,17 @@
+Let's create a class website! We'll need a homepage to introduce the class and sections for each class member that we can link to.
+
+Our homepage should include:
+- What the class is
+- What we will accomplish
+- Who is in the class
+
+Individual Sections should include:
+- A brief bio of the indivdual whose section it is. 
+  (Think elevator pitch - Who are you?, where are you from?, what do you like to do? Why you're in the FE course? What personal goals do you have?)
+- A summary of their coding experience
+  (Feel free to say you're a student and mention any school projects you may have done. At a minimum, you can include this!)
+- Demonstartions of any work they've completed through the year 
+  (more on this later)
+  
+  
+  Once we have our sections we will work as a team to put them together, and later we'll develop a stylesheet for the site!
