@@ -10,7 +10,7 @@ Individual Sections should include:
   (Think elevator pitch - Who are you?, where are you from?, what do you like to do? Why you're in the FE course? What personal goals do you have?)
 - A summary of their coding experience
   (Feel free to say you're a student and mention any school projects you may have done. At a minimum, you can include this!)
-- Demonstartions of any work they've completed through the year 
+- Demonstrations of any work they've completed through the year 
   (more on this later)
   
   
