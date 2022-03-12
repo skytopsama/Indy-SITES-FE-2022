@@ -1,0 +1,39 @@
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+}
+
+.na {
+  float: left;
+}
+
+.na a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.na a:hover {
+  background-color: #ff99cc;
+}
+
+#h11{
+  color: #33ccff
+}
+
+#p1{
+  background-color: #ff99cc
+}
+.demos{
+  border:solid;
+  color: #33ccff;
+}
+
+#h12{
+  text-align: center;
+}
