@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+html{
+    margin: 0;
+}
+
+div {
+    border: 1px solid red;
+    height: 50px;
+}
+
+#one {
+    position: relative;
+    height: 300px;
+    border-color: blue;
+}
+
+#two {
+    position: absolute;
+    right: 80px;
+    bottom: 300px;
+}
+
+#four {
+    height: 75%;
+    float: left;
+}
+
+#five {
+    height: 75%;
+    float: left;
+}
+
+.three-column {
+    width: 25%;
+}
+
+.four-column {
+    width: 33.33%;
+}
+
+.six-column {
+    width: 50%;
+}
+
+.twelve-column {
+    width: 100%;
+}
