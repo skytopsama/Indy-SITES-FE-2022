@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+}
+
+img {
+    width: 650px;
+    height: auto;
+}
+
+header {
+    font-size: 40px;
+}
+
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(to right, #33ccff 0%, #ff99cc 100%);
+  }
+
+  #banner {
+      position: absolute;
+      top: 6vh;
+      left: 40vw;
+  }
